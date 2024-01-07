@@ -1,6 +1,8 @@
 # dataset_PRS
 Guitar dataset recorded with PRS SE Bernie Marsden and prodipe studio 22+ audio interface
 
+This dataset is composed of 414 datas (notes), 138 datas per pickups and 23 datas per string & pickups.
+
 Note per note playing
 
 Recorded with bridge pickup, both pickups and neck pickup
